@@ -2,6 +2,8 @@
 
 Working with a cloud-hosted MongoDB database on **MongoDB Atlas**: CRUD operations in the MongoDB Shell, and a Python app that queries Atlas with **PyMongo**.
 
+> Built as coursework for **ITSC 3160**, covering NoSQL database setup, querying, and building database-backed applications in Python.
+
 ![Data Explorer query](docs/data-explorer.png)
 
 ## What's here
