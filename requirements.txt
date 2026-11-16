@@ -1,0 +1,4 @@
+pymongo
+certifi
+dnspython
+python-dotenv
